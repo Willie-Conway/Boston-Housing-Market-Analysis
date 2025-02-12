@@ -89,5 +89,5 @@ Feel free to fork this repository, create a branch, and submit a pull request wi
 For any questions or further information, feel free to reach out via email: [hire.willie.conway@gmail.com]
 
 ## ⭐License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
