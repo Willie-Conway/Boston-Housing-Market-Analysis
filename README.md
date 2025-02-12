@@ -65,7 +65,7 @@ To get started with this project locally, follow these steps:
 
    # Boston Housing Dataset Analysis
 
-📚## Data Description
+## 📚Data Description
 The dataset used in this analysis is based on the **Boston Housing dataset**, which includes the following features:
 
 - **CRIM**: Per capita crime rate by town
@@ -82,12 +82,12 @@ The dataset used in this analysis is based on the **Boston Housing dataset**, wh
 - **LSTAT**: Percentage of lower status of the population
 - **MEDV**: Median value of owner-occupied homes (in $1000s)
 
-📝## Contributions
+## 📝Contributions
 Feel free to fork this repository, create a branch, and submit a pull request with any improvements or suggestions!
 
-📫## Contact
+## 📫Contact
 For any questions or further information, feel free to reach out via email: [hire.willie.conway@gmail.com]
 
-⭐## License
+## ⭐License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
